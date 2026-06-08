@@ -49,7 +49,10 @@ This exercise implements a stack-based mathematical expression evaluator.
 Core concept:
 Evaluating expressions using **Last-In-First-Out (LIFO)** structure.
 
-#### Exercice 03 - Deep Dive on Ford–Johnson / Merge-Insertion Sort
+### Exercice 03
+
+
+##  Deep Dive – Ford–Johnson / Merge-Insertion Sort
 
 This algorithm is not a standard merge sort. It is designed to **minimize the number of comparisons**, not just time complexity.
 
